@@ -1,6 +1,7 @@
 
 ## About Me
 I'm Minudaka Liyanage, an AI and Data science enthusiast.
+Currently, greatly interested in using deep learning for the medical sector.
 
 ## Skills and Technologies
 <div>
