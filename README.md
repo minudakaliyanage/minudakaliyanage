@@ -1,10 +1,10 @@
 # Hi there, I'm Minudaka Liyanage 👋
 
-### AI & Data Science Fresh Graduate | [cite_start]Research Assistant [cite: 1, 2, 22]
+### AI & Data Science Fresh Graduate | Research Assistant
 
-[cite_start]I am a **Fresh Graduate in Artificial Intelligence & Data Science** with a passion for building intelligent systems that solve real-world problems[cite: 2, 28]. [cite_start]Currently, I serve as a **Research Assistant** at the University of Moratuwa, investigating the impact of heat stress on cognitive performance using thermographic skin temperature models[cite: 22, 23, 25, 26].
+I am a **Fresh Graduate in Artificial Intelligence & Data Science** with a passion for building intelligent systems that solve real-world problems. Currently, I serve as a **Research Assistant** at the University of Moratuwa, investigating the impact of heat stress on cognitive performance using thermographic skin temperature models.
 
-[cite_start]My expertise bridges **Deep Learning**, **Computer Vision**, and **Full-stack Engineering**, with a specific focus on the **medical sector**[cite: 6, 55, 59].
+My expertise bridges **Deep Learning**, **Computer Vision**, and **Full-stack Engineering**, with a specific focus on the **medical sector**.
 
 ---
 
@@ -14,30 +14,30 @@
 
 ---
 
-### [cite_start]🛠️ Technical Toolkit [cite: 4, 10]
+### 🛠️ Technical Toolkit
 
 | Category | Skills |
 | :--- | :--- |
-| **AI & Deep Learning** | [cite_start]PyTorch, TensorFlow, Keras, YOLO, U-Net, BERT, EfficientNet-B0, ResNet [cite: 6, 9] |
-| **Data & Vision** | [cite_start]OpenCV, Scikit-learn, XGBoost, Pandas, NumPy, Power BI, Weaviate [cite: 7, 9] |
-| **Languages** | [cite_start]Python, SQL, Java, JavaScript, PHP [cite: 5, 8] |
-| **Engineering** | [cite_start]FastAPI, SpringBoot, Angular, React, Flask, Docker, AWS, Git, MySQL [cite: 10, 19, 21] |
+| **AI & Deep Learning** | PyTorch, TensorFlow, Keras, YOLO, U-Net, BERT, EfficientNet-B0, ResNet |
+| **Data & Vision** | OpenCV, Scikit-learn, XGBoost, Pandas, NumPy, Power BI, Weaviate |
+| **Languages** | Python, SQL, Java, JavaScript, PHP |
+| **Engineering** | FastAPI, SpringBoot, Angular, React, Flask, Docker, AWS, Git, MySQL |
 
 ---
 
 ### 🔬 Featured Research & Projects
 
-* [cite_start]**Medical AI Segmentation (FYP):** Designed a three-model pipeline (YOLO → U-Net → EfficientNet) for risk stratification of dental nerve injuries on DPTs[cite: 30, 32].
-* [cite_start]**Edge AI Fall Detection:** Developed a multimodal system on Raspberry Pi 5 using YOLOv5 and CNN audio models, achieving 96.59% accuracy[cite: 42, 44, 45].
-* [cite_start]**Enterprise AI (CodeGen):** Built a multi-source RAG system using Weaviate and flight fare forecasting models (XGBoost) for UK-based travel data[cite: 13, 15, 16, 19].
-* [cite_start]**Intelligent Scheduling:** Optimized multi-clinic dental scheduling ($\approx10^{35}$ permutations) using Genetic Algorithms and ML demand forecasting[cite: 51, 53].
+* **Medical AI Segmentation (FYP):** Designed a three-model pipeline (YOLO → U-Net → EfficientNet) for risk stratification of dental nerve injuries on DPTs.
+* **Edge AI Fall Detection:** Developed a multimodal system on Raspberry Pi 5 using YOLOv5 and CNN audio models, achieving 96.59% accuracy.
+* **Enterprise AI (CodeGen):** Built a multi-source RAG system using Weaviate and flight fare forecasting models (XGBoost) for UK-based travel data.
+* **Intelligent Scheduling:** Optimized multi-clinic dental scheduling ($\approx10^{35}$ permutations) using Genetic Algorithms and ML demand forecasting.
 
 ---
 
 ### 🏆 Honors & Publications
 
-* [cite_start]**IEEE Publication (2024):** Co-authored "Knee Osteoarthritis Detection Using Machine Learning on Pre-Processed X-ray Images and Treatment Recommendation"[cite: 72, 73].
-* [cite_start]**1st Place – Cutting Edge 2024:** Awarded top prize in the AI & Data Science R&D category for Project "OsteoSense"[cite: 75, 76].
+* **IEEE Publication (2024):** Co-authored "Knee Osteoarthritis Detection Using Machine Learning on Pre-Processed X-ray Images and Treatment Recommendation".
+* **1st Place – Cutting Edge 2024:** Awarded top prize in the AI & Data Science R&D category for Project "OsteoSense".
 
 ---
 
