@@ -37,9 +37,9 @@
 ---
 
 ### 🔬 Highlighted Research
-* [cite_start]**Medical AI (FYP):** Designed a 3-model pipeline for **dental nerve injury stratification**[cite: 32].
-* [cite_start]**Edge AI:** Real-time **fall detection system** on Raspberry Pi 5 (96.59% accuracy)[cite: 44, 45].
-* [cite_start]**RAG Systems:** Enterprise-grade **multi-source RAG pipeline** using Weaviate[cite: 19].
+* **Medical AI (FYP):** Designed a 3-model pipeline for **dental nerve injury stratification**.
+* **Edge AI:** Real-time **fall detection system** on Raspberry Pi 5 (96.59% accuracy).
+* **RAG Systems:** Enterprise-grade **multi-source RAG pipeline** using Weaviate.
 
 ---
 
@@ -49,8 +49,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/minudakaliyanage/minudakaliyanage/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/minudakaliyanage/minudakaliyanage/output/github-contribution-grid-snake.svg">
 </picture>
-
-*(Note: To activate the snake, you need to set up a GitHub Action. Search "GitHub Snake Action" to get the 1-minute setup code!)*
 
 ---
 
