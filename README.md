@@ -8,11 +8,6 @@
 ---
 
 ### 🚀 Quick Stats & Activity
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=minudakaliyanage&show_icons=true&theme=radical&hide_border=true" alt="Minudaka's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minudakaliyanage&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <p align="left">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=minudakaliyanage&theme=radical&hide_border=true" alt="GitHub Streak" />
