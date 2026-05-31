@@ -1,9 +1,5 @@
 # Hi there, I'm Minudaka Liyanage 👋 
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-readme-trophies.vercel.app/?username=minudakaliyanage&theme=radical&column=7" alt="trophies" /></a>
-</p>
-
 ### 👨‍💻 I am a...
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=AI+%26+Data+Science+Graduate;Research+Assistant+@+UoM;Deep+Learning+Researcher;Full-Stack+AI+Engineer" alt="Typing SVG" />
@@ -13,8 +9,9 @@
 
 ### 🚀 Quick Stats & Activity
 <p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=minudakaliyanage&show_icons=true&theme=radical&hide_border=true" alt="Minudaka's GitHub stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minudakaliyanage&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=minudakaliyanage&show_icons=true&theme=radical&hide_border=true" alt="Minudaka's GitHub stats" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minudakaliyanage&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="left">
