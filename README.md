@@ -29,7 +29,7 @@
 ---
 
 ### 🔬 Highlighted Research
-* **Medical AI ([FYP](https://github.com/minudakaliyanage/FYP)):** Designed a 3-model pipeline for **dental nerve injury stratification**.
+* **Medical AI ([FYP](https://github.com/minudakaliyanage/Dental-IAN-Injury-Risk-Assessment)):** Designed a 3-model pipeline for **dental nerve injury stratification**.
 * **Edge AI ([Fall-Detection](https://github.com/minudakaliyanage/Fall-Detection-using-Raspberry-Pi)):** Real-time **fall detection system** on Raspberry Pi 5 (96.59% accuracy).
 * **RAG Systems:** Enterprise-grade **multi-source RAG pipeline** using Weaviate.
 
